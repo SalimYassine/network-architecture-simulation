@@ -34,8 +34,8 @@ The backbone uses FRRouting to exchange routes dynamically. Routers are configur
 
 ## Validation Tests
 The infrastructure was validated through several connectivity tests:
-**DNS Resolution**: Split-horizon DNS successfully resolving www.entreprise.com to the Box's public IP.
-**HTTP Connectivity**: Successful retrieval of the web page from the Home LAN through the NAT.
+* DNS Resolution: Split-horizon DNS successfully resolving www.entreprise.com to the Box's public IP.
+* HTTP Connectivity: Successful retrieval of the web page from the Home LAN through the NAT.
 
 ## Authors
 **Yassine Salim**, Aloïs Meurisse, Cédric Gironcel, Aurélien Rakotoarison, Romain Costi, Yahya Mazouari, Mathéo Lin-Teng-Shee.
